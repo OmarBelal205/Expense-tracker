@@ -1,14 +1,14 @@
 [
   {
-    "amount": 200.0,
-    "category": "food",
-    "description": "i bought a burger",
-    "date": "2025-12-08 12:04:11"
-  },
-  {
     "amount": 120.0,
     "category": "entertainment",
     "description": "i bought netflix",
     "date": "2025-12-08 12:04:48"
+  },
+  {
+    "amount": 400.0,
+    "category": "entertainment",
+    "description": "i bought shahid",
+    "date": "2025-12-10 00:00:00"
   }
 ]
